@@ -1,0 +1,10 @@
+CHEMBL1269025pdbqt.pdbqt
+CHEMBL1434513pdbqt.pdbqt
+CHEMBL2105709pdbqt.pdbqt
+CHEMBL2105747pdbqt.pdbqt
+CHEMBL272621pdbqt.pdbqt
+CHEMBL3310120pdbqt.pdbqt
+CHEMBL3833336pdbqt.pdbqt
+CHEMBL4297218pdbqt.pdbqt
+CHEMBL456237pdbqt.pdbqt
+CHEMBL573677pdbqt.pdbqt
